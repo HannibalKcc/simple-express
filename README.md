@@ -1,5 +1,8 @@
 # simple-express
 
+## 这可以做什么？
+利用`express`运行服务器上才能打开的页面（`webpack`打包后的`spa`）
+
 1. `npm install`
 2. 将自己生成的dist文件夹放入目录
 3. 运行`npm run start`
